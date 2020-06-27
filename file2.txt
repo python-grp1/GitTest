@@ -1,5 +1,9 @@
-fixed bug1
 
-for bug2 modified
+Fixed bug1
 
-for big4 modified by teammate
+For bug2 modified
+
+For big4 modified by teammate
+
+New fix for bug2
+
