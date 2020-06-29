@@ -15,3 +15,8 @@ Change 5 -> added by teammate
 to fix CR2
 
 To test stash
+
+fixed bug1
+
+for bug2
+
