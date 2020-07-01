@@ -20,3 +20,5 @@ fixed bug1
 
 for bug2
 
+change made by team mate on remote master repo
+
